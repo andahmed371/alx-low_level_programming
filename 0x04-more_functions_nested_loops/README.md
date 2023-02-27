@@ -13,11 +13,11 @@ Write a function that multiplies two integers.
 Prototype: int mul(int a, int b);
 3. The numbers speak for themselves
 Write a function that prints the numbers, from 0 to 9, followed by a new line.
-Prototype: void print_numbers(void);
+Prototype: void printnumbers(void);
 You can only use _putchar twice in your code
 4. I believe in numbers and signs
 Write a function that prints the numbers, from 0 to 9, followed by a new line.
-Prototype: void print_most_numbers(void);
+Prototype: void print_mostnumbers(void);
 Do not print 2 and 4
 You can only use _putchar twice in your code
 5. Numbers constitute the only universal language
@@ -61,10 +61,10 @@ Use the character # to print the triangle
 The prime factors of 1231952 are 2, 2, 2, 2, 37 and 2081.
 Write a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
 You are allowed to use the standard library
-Your program will be compiled with this command: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm
+Your program will be compiled with this command: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-primefactor -lm
 12. Numbers have life; they're not just symbols on paper
 Write a function that prints an integer.
-Prototype: void print_number(int n);
+Prototype: void printnumber(int n);
 You can only use _putchar function to print
 You are not allowed to use long
 You are not allowed to use arrays or pointers
